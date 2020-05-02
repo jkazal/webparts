@@ -1,0 +1,3 @@
+HelloWorldWebPart contient plusieurs instructions 'export', pour spécifier celle qu'on veut importer, on utilise { }. Pour l'instant, seul `IPointage` est disponible.
+
+Le fichier MockHttpClient.ts exporte la classe MockHttpClient comme module par défaut, ce qui lui permet d'^etre importé par d'autres fichiers.

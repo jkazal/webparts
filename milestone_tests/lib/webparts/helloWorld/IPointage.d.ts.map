@@ -1,0 +1,1 @@
+{"version":3,"file":"IPointage.d.ts","sourceRoot":"","sources":["../../../src/webparts/helloWorld/IPointage.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,SAAS;IACtB,SAAS,EAAE,MAAM,CAAC;IAClB,WAAW,EAAE,MAAM,CAAC;IACpB,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,SAAS,EAAE,IAAI,CAAC;IAChB,OAAO,EAAE,IAAI,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;IACpB,SAAS,EAAE,MAAM,CAAC;CACrB"}

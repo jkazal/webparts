@@ -19,7 +19,7 @@
     "@microsoft/sp-webpart-base": "1.10.0",
     "@types/es6-promise": "0.0.33",
     "@types/webpack-env": "1.13.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "qs": "^6.9.3"
   },
   "devDependencies": {
